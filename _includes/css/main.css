@@ -216,9 +216,10 @@ a:focus {
 #headerwrap {
 	background-image: url('../../assets/img/description_image.jpg');
 	min-height: 0px;
-	padding-top: 100px;
-	padding-bottom: 50px;
 	text-align: center;
+	background-size: 100% 100%;
+	margin-top: 70px;
+	height: 400px;
 }
 
 #headerwrap h3, h5 {
