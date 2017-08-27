@@ -224,10 +224,10 @@ a:focus {
 
 #headerwrap h3, h5 {
 	color: white;
-	font-weight: 400;
+	font-weight: 500;
 }
 
-#headerwrap h1 {
+#headerwrap h1, h2 {
 	color: white;
 	margin-bottom: 25px;
 }
