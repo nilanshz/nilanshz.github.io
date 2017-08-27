@@ -1,9 +1,15 @@
----
-Title: ReadMe
----
+# Read Me
 
-# What is this?
-This is the source files behind my personal blog (https://aevyz.github.io). You are free to Fork this branch and use the code to build your own site, however please be mindful of the licenses, specifically those regarding the content of this site.
+<p align="center">
+	<img src="http://adifahmi.github.io/assets/img/octojekyll.png" alt="Jekyll"/>
+</p>
 
-# Basis
-This site is a fork from the Herring Cove Jekyll Template written by Arnp (https://github.com/arnp/herring-cove).
+This is an implementation of [GitHub Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/), where you can _Hosted directly from your GitHub repository. Just edit, push, and your changes are live._
+
+Theme is [Solid](https://github.com/st4ple/solid-jekyll). A Bootstrap theme for Jekyll. 
+
+See the live version [Here](http://adifahmi.github.io) :fire:.
+
+Attention, please do edit/remove some personal content before publish this forked repository :warning:.
+
+![Screenshot](https://adifahmi.github.io/assets/img/af-preview.jpg)
