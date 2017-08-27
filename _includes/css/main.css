@@ -214,7 +214,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: url('../../assets/img/description_image.jpg');
+	background-image: url('../../assets/img/description_image.jpg');
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
