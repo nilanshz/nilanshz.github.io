@@ -1,7 +1,6 @@
 /*	################################################################
 
-	Author: Carlos Alvarez
-	Customized by Adi Fahmi
+	Author: Nilansh Arora
 
 	Project Name: SOLID - Bootstrap 3 Theme
 	Version: 1.0
@@ -215,7 +214,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
+	background-color: crimson;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;

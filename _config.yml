@@ -1,14 +1,14 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: ADI FAHMI
-description: "Adi Fahmi's Personal Site."
+title: NILANSH ARORA
+description: "Nilansh's Personal Site."
 analytics: UA-91950225-1 #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "https://adifahmi.me"
-author: Adi Fahmi
-disqus_shortname: adifahmi
-twitter_username: adifahmii
+url: "https://nilansh.com"
+author: Nilansh Arora
+disqus_shortname: nilansh
+twitter_username: nilansh29
 
 # Build settings
 markdown: kramdown
@@ -31,30 +31,28 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: github
-    url: https://github.com/AdiFahmi
+    url: https://github.com/nilanshz
   - title: facebook
-    url: https://fb.com/adifahmii
+    url: https://fb.com/nilansh.arora
   - title: twitter
-    url: https://twitter.com/adifahmii
+    url: https://twitter.com/nilansh29
   - title: instagram
-    url: https://instagram.com/adifahmii
+    url: https://instagram.com/niilansh_29
   - title: linkedin
-    url: https://www.linkedin.com/in/adifahmii
-  - title: google-plus
-    url: https://plus.google.com/+MuhAdiFahmi
+    url: https://www.linkedin.com/in/nilansh-arora-791086126
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Rawalumbu,
-    - 17116, Bekasi,
-    - Indonesia.
-email: adifahmi379@gmail.com
-tel: +62 838 768 682 38
+    - J.K Niwas,
+    - Main Bazar,
+    - Moga, Punjab.
+email: nilansh2929@gmail.com
+tel: +91-81461-50490
 
 # SEARCH ENGINE KNOW HTTPS
-url: https://adifahmi.me
-enforce_ssl: adifahmi.me
+url: https://nilansh.com
+enforce_ssl: nilansh.com
 
 # JEKYLL SITEMAP
 gems:
@@ -63,8 +61,8 @@ gems:
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Short text. Shown in footer on every page and also separately on Home and Contact page.
-about_author: "<del>A fresh graduate</del> Currently a Software Engineer at software company in South Jakarta with some works and projects experience. Used to autodidact, willing to learn and making fast adaption to work as a team."
-about_author_short: "<del>A fresh graduate</del> Currently a Software Engineer at software company in South Jakarta ..."
+about_author: "<del>Technocrat & altruistic </del>Working as a Full Stack Developer in Zomato , Gurgaon . Share interests including Photography, Fitness, Food and Music . Love to Party and Travel. </del>"
+about_author_short: "<del> Technocrat & altruistic </del> Working as a Full Stack Developer in Zomato , Gurgaon .."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
