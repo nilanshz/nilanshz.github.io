@@ -1,26 +1,26 @@
-name: Aevyz's Project Hub and Blog
-caption: Jay 'Aevyz' L.
-author: Aevyz
+name: Nilansh's Blog
+caption: Nilansh Arora
+author: Nilansh Arora
 baseurl: ""
-description: Aevyz's Project Hub and Blog
-github: http://www.github.com/Aevyz
-twitter: https://twitter.com/Aevyz_
+description: Welcome to the Area of Nilansh
+github: http://www.github.com/nilanshz
+twitter: https://twitter.com/nilansh29
 ##facebook: http://www.facebook.com
 ##linkedin: http://www.linkedin.com
-email: j.aevyz [at] gmail [dot] com
-location: Munich
-disqus: aevyz
+email: nilansh2929 [at] gmail [dot] com
+location: Gurgaon
+disqus: Nilansh
 ##SEO
 social:
-  name: Aevyz
+  name: Nilansh
   links:
-    - https://twitter.com/Aevyz_
-    - https://github.com/aevyz
+    - https://twitter.com/nilansh29
+    - https://github.com/nilanshz
 webmaster_verifications:
   google: oa8y9MR5B22kp07Kg_h0C5ZHqkosnQ6zeNf8x7CGP_w
   bing: CDC9B5FE4D8275A97E431F68295D6016
 
-url: https://aevyz.github.io
+url: https://nilanshz.github.io
 
 
 gems:
